@@ -1,7 +1,4 @@
-﻿using System.IO;
-using System.Text;
-
-namespace DiscordBot
+﻿namespace DiscordBot
 {
     class Logger
     {

@@ -22,7 +22,7 @@ namespace DiscordBot
                 .AddSingleton(client)
                 .AddSingleton(commands)
                 .BuildServiceProvider();
-            string botToken = "BOTTOKEN";
+            string botToken = "NjA2MDY5MDMxMDYwODk3ODIy.XWU5kg.nHRiMZkvvAotOqLXlZ7-04-REPo";
             client.Log += Log;
             await RegisterCommandsAsync();
             await client.LoginAsync(Discord.TokenType.Bot, botToken);
