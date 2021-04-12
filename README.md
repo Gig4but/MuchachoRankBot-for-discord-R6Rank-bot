@@ -8,4 +8,4 @@ Yeah, and rank parser or even bot may don't work due to old functionality<br/>
 # README
 The **R6RankBot** from **bohm** isn't copy or edit of this repository.<br/>
 It's unique and personal work from that man.<br/>
-My code was used only for basic learn, how to work with discord bot API<.br/>
+My code was used only for basic learn, how to work with discord bot API.
